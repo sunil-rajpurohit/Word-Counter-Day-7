@@ -31,7 +31,7 @@ word_character_counter/
 ## 📜 Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sunil-rajpurohit/Word-Counter-Day-7-7.git
+   git clone https://github.com/sunil-rajpurohit/Word-Counter-Day-7.git
    cd word-character-counter
    ```
 2.Run the script:
